@@ -11,21 +11,15 @@
 
 **Tavoitteeni / kiinnostukseni**
 
-* Kirjaa tavoitteesi opintojakson osalta: mitä haluat oppia. 
-* Kerro myös minkä arvosanan haluat opintojaksolta saada, kuinka paljon olet valmis tekemään töitä opintojakson eteen ja kuinka kiinnostunut olet opintojakson aiheesta? 
+Tavoitteeni on oppia ja nähdä millaista on ohjelmoida sovellusta androidille sekä tehdä työtä yritykselle. Kurssi arvosana tavoitteeni on 2-3
 
 # Taustani / aikaisempi osaamiseni (vertaa osaamistasi opintojakson osaamis-tavoitteisiin)
 
-* Perehdy opintojakson osaamis¬tavoitteisiin – mitä niistä osaat ennestään? 
-* Jotta opetus voitaisiin paremmin suunnata tarpeisiisi, niin kerro lisäksi hieman taustastasi (esim. mitä tiedät opetettavasta aiheesta entuudestaan). 
-* Jos mahdollista, niin ala heti rakentamaan jonkinlaista käsitekarttaa siitä, miten opintojaksolla esiintyvät asiat liittyvät toisiinsa. 
-* Määrittele itse omin sanoin keskeiset opintojaksolla esiintyvät termit ja vertaa niitä opintojaksolla esitettyihin.
+Tausta osaamista oli Android studiosta ja androidille ohjelmoinnista hieman. 
 
 # Haasteeni / projektityöni
 
-* Aloita heti pohdiskelu, minkä omassa elämässäsi kohtaamasi ongelman haluat opintojaksolla ratkaista. 
-* Kirjaa tähän sekä ongelman kuvaus että sen potentiaaliset ratkaisuvaihtoehdot.
-* Ala keräämään projektiryhmää, joka on kiinnostunut ratkaisemaan saman ongelman. Vaihtakaa yhteystiedot ja sopikaa myös aikatauluista, jotta voisitte tavata toisianne säännöllisesti.
+Työni oli tehdä projektiryhmän kanssa sovellus Aitio nimiselle yritykselle. Sovelluksen tarkoitus on seurata ajoneuvoja kartalla.
 
 # Projektin eteneminen... 
 
